@@ -3,7 +3,8 @@ A simple and responsive learning tracker, web application that helps you track y
 Built with HTML, CSS, and Javascript, it allows users to log tasks, mark them as completed, and visually see their progress
 
 ## Live Demo
-
+[Click
+here](https://nwekejohnbosco908-pixel.github.io/Learning_Tracker/)
 ## Tech Stack
 - HTML - structure of the website 
 - CSS - styling and responsive design
